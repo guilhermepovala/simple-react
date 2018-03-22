@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"cols_to_norm"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"first",
+				"firstname"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/guilhermepovala/React-Redux/simple-react"
+	],
+	"file_history":
+	[
+		"/Users/guilhermepovala/React-Redux/blog/src/reducers/reducer_posts.js",
+		"/Users/guilhermepovala/React-Redux/blog/src/actions/index.js",
+		"/Users/guilhermepovala/React-Redux/blog/src/components/posts_index.js",
+		"/Users/guilhermepovala/tutorial-part-one/src/pages/index.js",
+		"/Users/guilhermepovala/React-Redux/blog/src/index.js",
+		"/Users/guilhermepovala/React-Redux/ReduxSimpleStarter/project.sublime-project",
+		"/Users/guilhermepovala/React-Redux/ReduxSimpleStarter/project.sublime-workspace",
+		"/Users/guilhermepovala/NetBeansProjects/IFFExportC/sql/Match.sql",
+		"/Users/guilhermepovala/React-Redux/ReduxSimpleStarter-YT/src/index.js",
+		"/Users/guilhermepovala/Downloads/config.properties",
+		"/Users/guilhermepovala/Desktop/Livia/bjontegaard.m",
+		"/Users/guilhermepovala/Desktop/Livia/bd.m",
+		"/Users/guilhermepovala/Desktop/Itens exportados.bib",
+		"/Users/guilhermepovala/Desktop/Visualizador/config.properties",
+		"/Users/guilhermepovala/Downloads/config (1).properties",
+		"/Users/guilhermepovala/Downloads/GrBoletoCliente4.5.0 - Caixa/remessa/RemCaixa.php",
+		"/Users/guilhermepovala/Downloads/sql-backup-27-12-2017--20-31-27.sql",
+		"/Users/guilhermepovala/Downloads/GrBoletoCliente4.5.0 - Caixa/php/reenviarmail.php",
+		"/Users/guilhermepovala/Downloads/GrBoletoCliente4.5.0 - Caixa/caixa.sql",
+		"/Users/guilhermepovala/Downloads/GrBoletoCliente4.5.0 - Caixa/caixaUltimo.sql",
+		"/Users/guilhermepovala/Dropbox/PBR/nome_imagens.txt",
+		"/Users/guilhermepovala/Desktop/gerarHTML.asp.html",
+		"/Users/guilhermepovala/NetBeansProjects/golfcup/application/modules/default/controllers/ListenerController.php",
+		"/Users/guilhermepovala/Desktop/Visualizador/Angle/config.properties",
+		"/Users/guilhermepovala/NetBeansProjects/LivroBonsInvestimentos/index.php",
+		"/Users/guilhermepovala/Desktop/Ajustes Ser Forte.txt",
+		"/Users/guilhermepovala/Desktop/ceej-account-update/html/email.html.twig",
+		"/Users/guilhermepovala/Desktop/ceej-account-update/config.json",
+		"/Users/guilhermepovala/Desktop/20201-20170816110810.utp.txt",
+		"/Users/guilhermepovala/Downloads/startbootstrap-sb-admin-4-dev/package.json",
+		"/Users/guilhermepovala/NetBeansProjects/HighPerformanceManager/public/css/style 2.css",
+		"/Users/guilhermepovala/NetBeansProjects/HighPerformanceManager/public/css/style.css",
+		"/Users/guilhermepovala/NetBeansProjects/MHVC/rfc/decoder.cpp",
+		"/Users/guilhermepovala/Downloads/printRelacaoSetores.py",
+		"/Users/guilhermepovala/Downloads/config (4).properties",
+		"/Users/guilhermepovala/Downloads/config (3).properties",
+		"/Users/guilhermepovala/Library/PlayOnMac/wineprefix/XP_MetaTrader_5_/drive_c/Program Files/MetaTrader 5 Terminal/Config/common.ini2",
+		"/Users/guilhermepovala/Library/PlayOnMac/wineprefix/XP_MetaTrader_5_/drive_c/Program Files/MetaTrader 5 Terminal/Config/common.ini",
+		"/Users/guilhermepovala/Library/PlayOnMac/wineprefix/XP_MetaTrader_5_/drive_c/Program Files/MetaTrader 5 Terminal/Config/terminal.ini",
+		"/Users/guilhermepovala/Library/PlayOnMac/wineprefix/XP_MetaTrader_5_/drive_c/Program Files/MetaTrader 5 Terminal/Config/metaeditor.ini",
+		"/Users/guilhermepovala/Library/PlayOnMac/wineprefix/XP_MetaTrader_5_/drive_c/Program Files/MetaTrader 5 Terminal/Config/hotkeys.ini",
+		"/Users/guilhermepovala/Library/PlayOnMac/wineprefix/XP_MetaTrader_5_/drive_c/Program Files/MetaTrader 5 Terminal/Config/settings.ini",
+		"/Users/guilhermepovala/NetBeansProjects/IFFExportC/sql/SetItem.sql",
+		"/Users/guilhermepovala/HM-16.6/cfg/encoder_lowdelay_main.cfg",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Experiments/cross_sectional_j48.txt",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Queries/yuri.sql",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Experiments/yuri_decision_table.txt",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Experiments/yuri_j48.txt",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Experiments/yuri_mlp.txt",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Experiments/yuri_smo.txt",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Experiments/yuri_bayes_net.txt",
+		"/Users/guilhermepovala/Dropbox/Alzheimer/Experiments/yuri_naive_bayes.txt",
+		"/Users/guilhermepovala/Dropbox/scikit/tutorial.py",
+		"/Volumes/Dados/Unpacked/data/lua_script/holeineffect.lua",
+		"/Users/guilhermepovala/Arquivos PangYa Server/convert_tga.sh",
+		"/Users/guilhermepovala/Arquivos PangYa Server/find_tga.sh",
+		"/Users/guilhermepovala/Desktop/Backup/PyServer Repack.v2/PANGYA_SRV Repack.v2/Auth/Auth.ini",
+		"/Users/guilhermepovala/Desktop/Backup/PyServer Repack.v2/Database Repack.v2/2 - INI3BIll_DB.sql",
+		"/Users/guilhermepovala/Desktop/pass.txt",
+		"/Users/guilhermepovala/Desktop/Backup/PyServer Repack.v2/Database Repack.v2/4 - Pangya_S4_TH.sql",
+		"/Users/guilhermepovala/Downloads/Ebook.html",
+		"/Users/guilhermepovala/NetBeansProjects/LivroBonsInvestimentos/email.phtml",
+		"/Users/guilhermepovala/Desktop/derose_blog/html/email.html.twig",
+		"/Users/guilhermepovala/NetBeansProjects/atividades-complementares/sistema-web/composer.json",
+		"/Users/guilhermepovala/Downloads/Itens exportados.bib",
+		"/Users/guilhermepovala/Downloads/totalacessos/Media_Basketball.csv",
+		"/Users/guilhermepovala/download.rb",
+		"/Users/guilhermepovala/Desktop/DeRose Week/palestras.txt",
+		"/Users/guilhermepovala/Dropbox/plot_heatmap.py",
+		"/Users/guilhermepovala/NetBeansProjects/MHVC/levelc_controller.cpp",
+		"/Users/guilhermepovala/NetBeansProjects/MHVC/levelc_controller.h",
+		"/Users/guilhermepovala/NetBeansProjects/MHVC/levelc.cpp",
+		"/Users/guilhermepovala/Downloads/capes_teste_a_preencher (1).csv",
+		"/Users/guilhermepovala/Dropbox/Aulas/Mestrado/2016_2/AM/MLP_CAPES/treat_dataset.py",
+		"/Users/guilhermepovala/Dropbox/Aulas/Mestrado/2016_2/AM/CNN/mnist_cnn_c32c32p.py",
+		"/Users/guilhermepovala/Dropbox/Aulas/Mestrado/2016_2/AM/CNN/mnist_cnn_c64c64pc32c32p_100epocas.py",
+		"/Users/guilhermepovala/Dropbox/MLP_CAPES/treat_dataset.py",
+		"/Users/guilhermepovala/Dropbox/MLP_CAPES/resultados.txt",
+		"/Users/guilhermepovala/Dropbox/Aulas/Mestrado/2016_2/AM/CNN/mnist_cnn_c32c32pc32c32p.py",
+		"/Users/guilhermepovala/Dropbox/MLP_CAPES/capes/capes_raw_num_norm.csv",
+		"/Users/guilhermepovala/blog_derose.html",
+		"/Users/guilhermepovala/Downloads/reports/1080/DDRFC_OHB_summary.rpt",
+		"/Users/guilhermepovala/gowork/src/gitlab.com/guilhermepovala/perceptron/perceptron.go",
+		"/Users/guilhermepovala/Desktop/skyline/html/email.html",
+		"/Users/guilhermepovala/Downloads/flat-pricing-tables-design/index.html",
+		"/Users/guilhermepovala/Downloads/corporal2/index.html",
+		"/Users/guilhermepovala/Downloads/html-contact-form-code/Html+ PHP/simple-html-contact-form.html",
+		"/Users/guilhermepovala/Downloads/startbootstrap-landing-page-gh-pages/index.html",
+		"/Users/guilhermepovala/Desktop/Angle/src/angle/Angle.java",
+		"/Users/guilhermepovala/ContaPai.exe",
+		"/Users/guilhermepovala/Downloads/config-2.properties",
+		"/Users/guilhermepovala/Dropbox/Others/Angle/config.properties",
+		"/Users/guilhermepovala/DDRFC_OHB/codec/testbench.vhd",
+		"/Users/guilhermepovala/quiz/index.php",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Login Server/Config.ini",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Game Server/data/st_ball.ini",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Game Server/data/Config.ini",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Database/Dados iniciais.sql",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Database/Estrutura do bando de dados.sql",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Auth Server/data/st_cadiemagicbox.ini",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Auth Server/config/socket_config.ini",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Apache Server/config/save_log.inc",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Apache Server/config/config.inc",
+		"/Users/guilhermepovala/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/EventNotifications/config.json",
+		"/Users/guilhermepovala/Downloads/Versao do beta com os bugs corrigidos/Apache Server/config/base.inc",
+		"/Users/guilhermepovala/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/LookupAnything/config.json",
+		"/Users/guilhermepovala/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/LovedLabels/config.json",
+		"/Users/guilhermepovala/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/CalendarAnywhere/CalendarAnywhere.dll.mdb",
+		"/Users/guilhermepovala/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/DailyNotifications/manifest.json",
+		"/Users/guilhermepovala/Downloads/GiftTasteHelper/manifest.json",
+		"/Users/guilhermepovala/O que é o DeRose Method?",
+		"/Users/guilhermepovala/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/GiftTasteHelper/manifest.json",
+		"/Users/guilhermepovala/giftserver_pgm/Module1.vb",
+		"/Users/guilhermepovala/Downloads/script.cpp",
+		"/Users/guilhermepovala/Downloads/exemplo-tcc.tex",
+		"/Users/guilhermepovala/Downloads/finder/conf/config.php",
+		"/Users/guilhermepovala/Downloads/texufpel-v5/exemplo-diss.tex",
+		"/Users/guilhermepovala/Downloads/Alzheimer Atualizado.bib",
+		"/Users/guilhermepovala/Downloads/Minha biblioteca.bib",
+		"/Users/guilhermepovala/Desktop/bibliografia.bib",
+		"/Users/guilhermepovala/Downloads/PagSeguro_2016-11-11_23-42-30.txt",
+		"/Users/guilhermepovala/Downloads/IMA_10112016.xls",
+		"/Users/guilhermepovala/Desktop/removedores",
+		"/Users/guilhermepovala/Dropbox/FGC/giftserver_pgm/giftserver_pgm/dbConn.cs",
+		"/Users/guilhermepovala/Downloads/PagSeguro_2016-11-08_23-08-46.txt",
+		"/Users/guilhermepovala/Downloads/mautic-staging/app/bundles/EmailBundle/Entity/StatRepository.php",
+		"/Users/guilhermepovala/Downloads/mautic-staging/app/bundles/EmailBundle/Stats/emailstats.html.php",
+		"/Users/guilhermepovala/php7.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-dev-test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

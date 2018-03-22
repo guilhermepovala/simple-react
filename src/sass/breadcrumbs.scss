@@ -1,0 +1,19 @@
+.breadcrumbs {
+  padding: 18px 0 6px;
+  font-size: 11px;
+  text-align: right;
+  width: 100%;
+  letter-spacing: -0.2px;
+
+  a {
+    text-decoration: none;
+  }
+
+  a:after {
+    content: " > ";
+  }
+
+  a:last-child:after {
+    content: "";
+  }
+}

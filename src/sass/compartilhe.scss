@@ -1,0 +1,58 @@
+@import 'defines';
+
+.compartilhe {
+  [class*="fab fa-"] {
+    background-color: $dark-gray;
+    border-radius: 32px;
+    color: #fff;
+    height: 32px;
+    line-height: 28px;
+    margin: auto 0;
+    width: 32px;
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid #fff;
+    margin-left: 16px;
+
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  span {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 0;
+    margin-top: 14px;
+    position: relative;
+    float: left;
+    letter-spacing: -0.4px;
+    margin-right: 4px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .fa-facebook-f:hover {
+    background-color: $facebook;
+  }
+
+  .fa-instagram:hover {
+    background-color: $instagram;
+  }
+
+  .fa-twitter:hover {
+    background-color: $twitter;
+  }
+
+  .fa-google-plus-g:hover {
+    background-color: $googleplus;
+  }
+}

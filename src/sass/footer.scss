@@ -1,0 +1,268 @@
+@import 'defines';
+
+.footer {
+  background-color: #e6e7e6;
+  margin-top: 40px;
+
+  .newsletter {
+    color: #fff;
+    background-color: $red;
+    height: 80px;
+    padding: 22px 0;
+    width: 100%;
+    top: -40px;
+    position: relative;
+    text-align: center;
+
+    @media (max-width: 991.98px) {
+      span {
+        font-size: 13px;
+        padding-right: 10px !important;
+      }
+
+      input {
+        width: 200px !important;
+        margin-right: 10px !important;
+      }
+    }
+
+    span {
+      font-weight: 700;
+      padding-right: 40px;
+    }
+
+    input {
+      position: relative;
+      top: -1px;
+      width: 350px;
+      margin-right: 40px;
+      font-size: 12px;
+      color: $dark-gray;
+      padding-left: 10px;
+      height: 30px;
+
+      &::-webkit-input-placeholder {
+        line-height: 1.5em;
+        padding-left: 20px;
+      }
+
+      &:-moz-placeholder {
+        line-height: 1.5em;
+        padding-left: 20px;
+      }
+
+      &::-moz-placeholder {
+        line-height: 1.5em;
+        padding-left: 20px;
+      }
+
+      &:-ms-input-placeholder {
+        line-height: 1.5em;
+        padding-left: 20px;
+      }
+    }
+
+    a {
+      top: -1px;
+      position: relative;
+      font-weight: bolder;
+      font-size: 12px;
+      text-decoration: none;
+      padding: 7px 20px;
+      line-height: 38px;
+
+      border: 1px solid #fff;
+      color: #fff;
+
+      -webkit-transition: all 250ms linear;
+      -moz-transition: all 250ms linear;
+      -ms-transition: all 250ms linear;
+      -o-transition: all 250ms linear;
+      transition: all 250ms linear;
+
+      &:hover {
+        background-color: #fff;
+        color: $red;
+      }
+    }
+  }
+  .content {
+    font-size: 12px;
+
+    @media (min-width: 992px) {
+      padding-top: 72px;
+    }
+
+    @media (max-width: 991.98px) {
+      padding-bottom: 40px;
+    }
+
+    color: $font-color;
+
+    @media (min-width: 1140px) {
+      padding: 25px 163px 67px;
+    }
+
+    @media (min-width: 992px) {
+      padding: 25px 0 67px;
+    }
+
+    .row {
+      /*align-items: center;
+      justify-content: center;*/
+    }
+
+    @media (min-width: 768px) {
+      .col {
+        padding: 0 48px;
+      }
+    }
+
+    .logo {
+      padding: 0 36px;
+
+      img {
+        width: 100%;
+        max-width: 370px;
+
+        @media (max-width: 991.98px) {
+          margin-bottom: 20px;
+        }
+      }
+
+      @media (max-width: 991.98px) {
+        border-bottom: 1px solid;
+        border-color: rgba(0,0,0,.1);
+        margin-bottom: 20px;
+      }
+    }
+
+    @media (min-width: 992px) {
+      .lojas, .social {
+        &:before {
+          content: '';
+          border-left: 1px solid;
+          height: 62px;
+          border-color: rgba(0,0,0,.1);
+          position: absolute;
+          left: 0;
+
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+          -khtml-transform: translateY(-50%);
+          -moz-transform: translateY(-50%);
+          -ms-transform: translateY(-50%);
+          -o-transform: translateY(-50%);
+          transform: translateY(-50%);
+        }
+      }
+    }
+
+    .lojas {
+      a {
+        color: $font-color;
+      }
+
+      @media (max-width: 767.98px) {
+        padding-bottom: 20px;
+      }
+    }
+
+    .social {
+      [class*="fab fa-"] {
+        background-color: #bacaca;;
+        border-radius: 36px;
+        color: #fff;
+        display: inline-block;
+        height: 36px;
+        line-height: 32px;
+        margin: auto 0;
+        width: 36px;
+        font-size: 16px;
+        text-align: center;
+        border: 2px solid #fff;
+
+        -webkit-transition: all .3s linear;
+        -moz-transition: all .3s linear;
+        -ms-transition: all .3s linear;
+        -o-transition: all .3s linear;
+        transition: all .3s linear;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      .fa-facebook-f:hover {
+        background-color: $facebook;
+      }
+
+      .fa-instagram:hover {
+        background-color: $instagram;
+      }
+
+      .fa-twitter:hover {
+        background-color: $twitter;
+      }
+
+      .fa-google-plus-g:hover {
+        background-color: $googleplus;
+      }
+
+      .col {
+        padding: 0;
+      }
+
+      .row {
+        margin: 0;
+        padding-top: 12px;
+      }
+    }
+
+    h5 {
+      font-weight: bold;
+      margin-bottom: 12px;
+      font-size: 13px;
+    }
+
+    p {
+      margin: 0;
+      line-height: 1.4;
+      font-size: 11px;
+    }
+  }
+
+  .footbar {
+    line-height: 50px;
+    padding: 0 30px;
+    background-color: #fff;
+
+    span {
+      font-size: 11px;
+    }
+
+    .links {
+      float: right;
+
+      a {
+        padding: 0 4px;
+        display: inline-block;
+        opacity: .6;
+
+        -webkit-transition: all .2s ease-out;
+        -moz-transition: all .2s ease-out;
+        -ms-transition: all .2s ease-out;
+        -o-transition: all .2s ease-out;
+        transition: all .2s ease-out;
+
+        &:hover {
+          opacity: 1;
+        }
+
+        img {
+          height: 12px;
+        }
+      }
+    }
+  }
+}

@@ -17,4 +17,4 @@ ReactDOM.render(
       <Route path='/' component={App}/>
     </BrowserRouter>
   </Provider>
-  , document.querySelector('.container'))
+  , document.querySelector('.body'))

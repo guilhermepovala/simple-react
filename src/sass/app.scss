@@ -1,5 +1,46 @@
+@import 'defines';
+
+* {
+  margin: 0;
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
 .app {
+
+  @media (min-width: 1140px) {
+    .container {
+      max-width: 1075px;
+    }
+  }
+
+  @media (max-width: 575.98px) {
+    .container {
+      padding: 0 30px;
+    }
+  }
+
+  background-color: #fff;
+  color: $font-color;
+
   p {
     font-size: 18px;
   }
+
+  a {
+    color: $font-color;
+
+    &:hover {
+      color: $red;
+    }
+  }
+}
+
+.main {
+  padding-top: 220px;
 }
