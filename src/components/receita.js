@@ -29,13 +29,13 @@ class Receita extends Component {
           </div>
         </div>
         <div className="row">
-          <div className="col">
+          <div className="col-12 col-md-12 col-lg-6">
             <div className="left">
               <img className="foto" src="/public/img/hamburger.png" alt="" />
               <Compartilhe />
             </div>
           </div>
-          <div className="col">
+          <div className="col-12 col-md-12 col-lg-6">
             <div className="right">
               <ul className="info">
                 <li className="tempo">

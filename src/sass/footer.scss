@@ -26,6 +26,18 @@
       }
     }
 
+    @media (max-width: 575.98px) {
+      span {
+        font-size: 12px;
+        padding-right: 10px !important;
+      }
+
+      input {
+        width: 150px !important;
+        margin-right: 10px !important;
+      }
+    }
+
     span {
       font-weight: 700;
       padding-right: 40px;
